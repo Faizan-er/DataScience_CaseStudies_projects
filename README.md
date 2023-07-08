@@ -2,4 +2,4 @@ This repo contains projects and Case-studies done as assignments or for learning
 ---
 Faizan Shakeel
 Data Scientist
-(Domain: FinTech, HealthCare, EdTech)
+(Domain: FinTech, EdTech, Biomedical Engineering)
